@@ -14,7 +14,7 @@ Mejoras de rendimiento en núcleos eficientes y en la memoria DDR5, esto  ya  ex
 ### Chipset Intel Serie 600
 Intel lo realizo con el fin de mejorar la confianza y el rendimiento a un rápido acceso a los dispositivos periféricos y la red.
 
-### Arquitectura,Núcleos P y núcleos E
+### Arquitectura, git Núcleos P y núcleos E
 Son  los  primeros  que  se  basan  en arquitectura  de  rendimiento hibrido de Intel, que se combina núcleos de rendimiento con los núcleos eficientes para diseñar un rendimiento escalable de cargas de  trabajos  entre  varios  hilos.  Esto  permite  que  los  núcleos trabajen juntos sin problemas, guiando al sistema operativo para que coloque el hilo adecuado en el núcleo correcto en el momento justo. Estos van a ser híbridos, por lo que al momento de juntar lo que son los  núcleos  que  procesan  tareas  con  máxima  exigencia  y  los núcleos eficientes que se encargan de las menos demandantes, asi obteniendo un resultado de mejora de desempeño combinado con una mayor eficiencia energética.Eso lo hicieron con el fin de mejorar la optimización y aprovechar al máximo la nueva arquitectura por lo que debe de utilizarse el Windows 11.
 
 ### Disponibilidad
