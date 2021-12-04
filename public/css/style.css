@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.texto{
+    color: white;
+}
+.contenido{
+    background: linear-gradient(to bottom right, rgb(0, 148, 253), rgb(22, 187, 247), rgb(0, 255, 247));
+    padding: 3%;
+    border-radius: 50px;
+    text-align: justify;
+}
